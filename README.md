@@ -23,3 +23,7 @@ The project uses two datasets:
 - noc_regions.csv: Mapping of NOC codes to country/region names.
 
 Source: Kaggle - 120 years of Olympic history
+
+#### Data Outputs
+
+The data outputs of all the queries can be found in Data Outputs.xlsx
