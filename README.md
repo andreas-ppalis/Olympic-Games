@@ -1,6 +1,6 @@
 # Olympic-Games SQL Analysis Project
 
-# This project explores and analyzes a historical dataset of the Olympic Games using PostgreSQL.It covers everything from data cleaning and transformation to solving real-world analytical tasks such as medal tallies, top athletes, country participation trends, and more.
+#### This project explores and analyzes a historical dataset of the Olympic Games using PostgreSQL.It covers everything from data cleaning and transformation to solving real-world analytical tasks such as medal tallies, top athletes, country participation trends, and more.
 
 The goal of this project is to showcase SQL skills, including:
 
@@ -14,7 +14,7 @@ The goal of this project is to showcase SQL skills, including:
 
 - Advanced filtering and transformations
 
-# Dataset
+#### Dataset
 
 The project uses two datasets:
 
